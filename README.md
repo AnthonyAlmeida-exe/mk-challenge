@@ -28,6 +28,23 @@ Esse comando instala as dependências do projeto.
 $ npm run dev
 ```
 
+## Storybook - Para visualizar os components no storybook utilize este comando
+
+
+```
+$ npm run storybook
+```
+
+## Tests - Rode os testes criados com este comando
+
+
+```
+$ npm run test
+```
+
+
+![image](https://github.com/AnthonyAlmeida-exe/mk-challenge/assets/54202789/cb8b3eb4-2d12-4d3e-b7c4-1fa6b8bd30e7)
+
 
 
 

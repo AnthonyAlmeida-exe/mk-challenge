@@ -1,4 +1,4 @@
-import { ReactNode, useState } from "react";
+import { ReactNode } from "react";
 
 import * as S from "./styles";
 import { Divider } from "../Divider";
@@ -38,7 +38,6 @@ const customStyles: ModalStyles = {
   },
 };
 
-// Componente do modal
 export function Modal({
   title,
   cta,

@@ -7,12 +7,12 @@ export function Header() {
   return (
     <S.HeaderWrapper>
       <a href="https://admin.mknext.com.br/" target="_blank">
-        <img src={MkLogo} />
+        <img src={MkLogo} alt="MK Logo" />
       </a>
 
       <div>
-        <img src={BellIcon} />
-        <img src={UserIcon} />
+        <img src={BellIcon} alt="Bell Icon" />
+        <img src={UserIcon} alt="User Icon" />
       </div>
     </S.HeaderWrapper>
   );

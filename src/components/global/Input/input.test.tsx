@@ -1,5 +1,5 @@
 import { render, fireEvent } from "@testing-library/react";
-import { Input } from "./";
+import Input from "./";
 import "@testing-library/jest-dom";
 
 describe("Input", () => {

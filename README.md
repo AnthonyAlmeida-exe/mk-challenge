@@ -8,7 +8,6 @@ Repositório criado para desenvolvimento do desafio técnico da MK Solutions.
 Para rodar o projeto, é necessário possuir:
 
 - NodeJS **v18.0.0** ou mais recente;
-- Yarn **v1.22.5** ou mais recente;
 - NPM **v9.5.0** ou mais recente;
 
 ### 1. Clone o projeto;
